@@ -8,11 +8,8 @@
 </a>
    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Yandex-yellow?style=for-the-badge&logo=yandex&logoColor=black" alt="Yandex Badge"/>
-<div align="center">
 </div>
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYyMmcyOHpqdXIwZ3R1NzVvb2I2NmcxbnJxbmRtZHR2YjIyaXIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" heignt="300">
-</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JaneKrylove&style=flat-square&color=green" alt=""/>
 </div>
