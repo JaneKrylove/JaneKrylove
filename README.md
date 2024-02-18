@@ -1,4 +1,4 @@
-[![header](https://github.com/JaneKrylove/JaneKrylove/blob/main/assets/banner_github.jpg)]
+![header](https://github.com/JaneKrylove/JaneKrylove/blob/main/assets/banner_github.jpg)
 
 
 <div id="header" align="center">
