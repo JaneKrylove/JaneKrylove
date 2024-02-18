@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![header](https://github.com/JaneKrylove/JaneKrylove/blob/main/assets/banner_github3.jpg)
+<img src="https://github.com/JaneKrylove/JaneKrylove/blob/main/assets/banner_github3.jpg" width="100"/>
 
 </div>
 <!-- <div id="header" align="center">
